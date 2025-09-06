@@ -1,0 +1,6 @@
+# Keep your real secrets private
+secrets.yaml
+
+# Ignore ESPHome build and cache
+.esphome/
+*.log
